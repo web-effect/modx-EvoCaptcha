@@ -1,8 +1,8 @@
 <?php
 
 $sconfig=[
-    'sampleSnippet'=>[
-        'description'=>'SampleComponent snippet',
+    'evocaptcha'=>[
+        'description'=>'',
     ],
 ];
 
